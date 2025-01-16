@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Modpack Notes/Star Technology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15193624
+      }
+    },
+    {
+      "query": "path:Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 15102259
+      }
+    },
+    {
+      "query": "path:\"Modpack Notes/Mods\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15634645
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.04427083333333,
   "lineSizeMultiplier": 3.87708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.244791666666667,
-  "repelStrength": 0,
+  "centerStrength": 0.223958333333333,
+  "repelStrength": 10.3125,
   "linkStrength": 0.677083333333333,
   "linkDistance": 299,
-  "scale": 1.0534979423868447,
+  "scale": 0.7514342322277677,
   "close": false
 }

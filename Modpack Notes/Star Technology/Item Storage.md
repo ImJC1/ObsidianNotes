@@ -1,0 +1,1 @@
+The Item Storage solution I use is comprised of [[Collosal Chests]] and a [[Tom's Simple Storage]] system connecting all the 5x5 wooden chests into a crafting terminal, it's cheap, has sorting and simple crafting capabilities and a ton of slots.

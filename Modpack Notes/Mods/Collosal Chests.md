@@ -1,0 +1,1 @@
+Adds the ability to built **giant** chests, including Iron Chest variants with the use of Collosal Chest walls and Cores. It's compatible with [[Tom's Simple Storage]]
