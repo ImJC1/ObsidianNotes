@@ -1,0 +1,13 @@
+Needed:
+- 11 copper upgrades LEFT
+- 23 item pipes LEFT
+- 8 fluid pipes LEFT
+- 4 aqueous accumulators
+- 11 cobblestone stairs
+- 4 large barrels
+- 5 oak drawers
+- 27 pump decks
+- 53 treated wood planks
+- 4 LV input bus
+- 4 LV input hatch
+- 4 LV output bus
