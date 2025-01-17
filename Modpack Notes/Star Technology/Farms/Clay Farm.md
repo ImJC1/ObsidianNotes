@@ -1,13 +1,13 @@
 Needed:
-- 11 copper upgrades LEFT
-- 23 item pipes LEFT
-- 8 fluid pipes LEFT
-- 4 aqueous accumulators
-- 11 cobblestone stairs
-- 4 large barrels
-- 5 oak drawers
-- 27 pump decks
-- 53 treated wood planks
-- 4 LV input bus
-- 4 LV input hatch
-- 4 LV output bus
+- 11 Copper upgrades LEFT
+- 23 Item pipes LEFT (6 alr in chest)
+- 8 Fluid pipes LEFT
+- 4 Aqueous accumulators
+- 11 Cobblestone stairs
+- 4 Large barrels
+- 5 Oak drawers (1x1)
+- 27 Pump decks
+- 53 Treated wood planks
+- 4 LV Input bus
+- 4 LV Input hatch
+- 4 LV Output bus

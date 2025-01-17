@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Modpack Notes/Star Technology\"  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.04427083333333,
   "lineSizeMultiplier": 3.87708333333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.223958333333333,
   "repelStrength": 10.3125,
   "linkStrength": 0.677083333333333,
   "linkDistance": 299,
-  "scale": 0.7514342322277677,
-  "close": false
+  "scale": 1.292782304020424,
+  "close": true
 }
