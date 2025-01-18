@@ -3,6 +3,9 @@ I found it while mindlessly scrolling through tiktok and I thought it looked coo
 
 I will add descriptions to mods I find useful, they're linked below.
 - [[Collosal Chests]]
-- [[Tom's Simple Storage]]
-- [[Pipez]]
+- [[Create]]
+- [[Functional Storage]]
 - [[Gregtech]]
+- [[Pipez]]
+- [[Thermal Series Mods]]
+- [[Tom's Simple Storage]]

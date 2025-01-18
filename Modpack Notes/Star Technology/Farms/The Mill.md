@@ -1,0 +1,24 @@
+Needed:
+- Area of 17x20 meters 
+- 512 White Wool
+- 257 Cobblestone Bricks
+- 214 Cut Cobblestone Column
+- 210 Simple Cobblestone Pillar
+- 150 Cobblestone
+- 139 Pillar Cobblestone Bricks
+- 104 Cobblestone Wall
+- 78 Item Vault ([[Create]])
+- 64 Oak Log
+- 33 Shaft ([[Create]])
+- 16 Encased Chain Drive ([[Create]])
+- 13 Cogwheel ([[Create]])
+- 12 Crushing Wheel ([[Create]])
+- 7 Chute ([[Create]])
+- 7 Mechanical Belt ([[Create]])
+- 6 Andesite Funnel ([[Create]])
+- 4 Large Cogwheel ([[Create]])
+- 4 Windmill Bearing ([[Create]])
+- 1 Gearbox ([[Create]])
+- 1 Oak Drawer ([[Functional Storage]])
+- 1 Storage Terminal ([[Tom's Simple Storage]])
+- 1 Super Glue ([[Create]])

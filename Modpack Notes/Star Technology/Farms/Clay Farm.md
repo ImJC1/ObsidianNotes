@@ -1,13 +1,14 @@
 Needed:
-- 11 Copper upgrades LEFT
-- 23 Item pipes LEFT (6 alr in chest)
-- 8 Fluid pipes LEFT
-- 4 Aqueous accumulators
+- Area of 9x7 meters
+- 11 Copper upgrades ([[Functional Storage]])
+- 23 Item pipes ([[Pipez]])
+- 8 Fluid pipes ([[Pipez]])
+- 4 Aqueous accumulators ([[Thermal Series Mods]])
 - 11 Cobblestone stairs
-- 4 Large barrels
-- 5 Oak drawers (1x1)
-- 27 Pump decks
-- 53 Treated wood planks
-- 4 LV Input bus
-- 4 LV Input hatch
-- 4 LV Output bus
+- 4 Large barrels ([[Gregtech]])
+- 5 Oak drawers (1x1) ([[Functional Storage]])
+- 27 Pump decks ([[Gregtech]])
+- 53 Treated wood planks ([[Gregtech]])
+- 4 LV Input bus ([[Gregtech]])
+- 4 LV Input hatch ([[Gregtech]])
+- 4 LV Output bus ([[Gregtech]])
