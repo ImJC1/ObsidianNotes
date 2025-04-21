@@ -1,0 +1,1 @@
+I've started playing GTMCP on 13/04/2025 because I found myself looking for a modpack to learn Gregtech with. I've added multiple mods that aren't in the base pack.
